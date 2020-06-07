@@ -6,7 +6,7 @@ public class Expression {
         int max;
 
         // statement
-        if( a > b ) {
+        if (a > b) {
             max = a;
         } else {
             max = b;
